@@ -10,11 +10,13 @@ On start it will:
 
 Please note that Consul and hashi-ui are both running in --net=host mode for ease of use.  
 
+
+### Web UI's
 You can access the various UI's from your host machine:
 
-hashi-ui: http://172.17.8.101:3000
-consu ui: http://172.17.8.101:8500/ui
-nomad ui: http://172.17.8.101:4646/ui
+* hashi-ui: http://172.17.8.101:3000
+* consu ui: http://172.17.8.101:8500/ui
+* nomad ui: http://172.17.8.101:4646/ui
 
 
 ### Vagrant details
